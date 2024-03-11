@@ -10,7 +10,7 @@ This project offers several critical functionalities aimed at segmenting a bank'
 
 - **Feature Selection:** Selecting relevant features from the dataset plays a crucial role in clustering analysis. This feature focuses on identifying key attributes related to credit card usage behavior that can effectively differentiate customer segments.
 
-- **Clustering Algorithm Selection:** Choosing a suitable clustering algorithm, such as KMeans Clustering, is vital for segmenting customers based on their credit card usage patterns. This feature evaluates various clustering techniques and selects the most appropriate one for the task.
+- **Clustering Using Selected Algorithm :** Using KMeans Clustering, is vital for segmenting customers based on their credit card usage patterns. This feature evaluates various clustering techniques and selects the most appropriate one for the task.
 
 - **Model Training and Evaluation:** Training the clustering model involves feeding the selected features into the chosen algorithm and evaluating its performance. This feature assesses the model's effectiveness in accurately grouping customers into distinct clusters.
 
